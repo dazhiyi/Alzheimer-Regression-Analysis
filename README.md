@@ -15,5 +15,4 @@ Preliminary findings indicate significant correlations between certain biomarker
 ## Future Directions
 Building on the outcomes of this study, I plan to delve deeper into more sophisticated data analysis techniques and apply these to broader medical datasets to enhance our understanding of neurodegenerative diseases like Alzheimer's.
 
-## About the Researcher
-[Your brief introduction, including academic background, research interests, and future research directions.]
+
